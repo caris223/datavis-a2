@@ -5,7 +5,8 @@ This is my independently completed version of the second assignment of the DataV
 # ScreenShot
 ![Screenshot](screenshot.png)
 
-It also contains the sample cars.csv dataset -- remember, it contains some errors! 
+# Online View
+You can view it at https://caris223.github.io/datavis-a2/
 
 ## Local development: 
 Pre-requisite: [Node.js](https://nodejs.org/en). Install `serve` using: 
